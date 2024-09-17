@@ -11,5 +11,10 @@ h1{
 
 h3{
     color: black;
+    background-color: white;
 }
 
+body
+{
+    text-align: center;
+}
