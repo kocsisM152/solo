@@ -1,7 +1,8 @@
 a{
     font-size: 30px;
-    color: purple;
+    color: aqua;
     text-align: center;
+    background-color: black;
 }
 
 h1{
@@ -12,6 +13,8 @@ h1{
 h3{
     color: black;
     background-color: white;
+    border-style: dashed;
+    border-color: red;
 }
 
 body
